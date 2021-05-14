@@ -5,7 +5,7 @@
 HTML5 version of [Spelunky Classic HD](https://github.com/yancharkin/SpelunkyClassicHD).
 
 This version has a bit more bugs but also it has some nice features:
-- you can play it in [your browser](https://rawcdn.githack.com/generic-user10/GlitchlunkyIB/7b36022b0c7e45906ecb27cc09129908f9584e82/src/index.html)
+- you can play it in [your browser](https://rawcdn.githack.com/generic-user10/GlitchlunkyIB/81051605668ec09eeb00c7a0fb97748d5d3a50fa/src/index.html)
 - [builds for macOS, 64 bits builds for Linux and Windows, ARM builds for Linux (Electron)](https://github.com/yancharkin/SpelunkyClassicHDhtml5/releases)
 - touch input on any device that supports it (not only android)
 
